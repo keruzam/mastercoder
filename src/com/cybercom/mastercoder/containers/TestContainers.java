@@ -11,7 +11,7 @@ public class TestContainers {
 		// int fuelVolume = 10;
 
 		int fuelVolume1 = 23;
-		// int fuelVolume2 = 2;
+		int fuelVolume2 = 2;
 		// int fuelVolume3 = 10;
 		// int fuelVolume4 = 7;
 		// int fuelVolume5 = 14;
